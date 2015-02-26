@@ -11,8 +11,8 @@ Aplikasi ini adalah aplikasi yang akan membantu dan memudahkan siswa dalam melak
 
 Dalam aplikasi ini ada tiga tingkatan yaitu siswa/user, guru, dan admin.
 
-**Admin**
-=========
+Admin<br>
+
 1. Admin dapat menon-aktifkan status siswa dan guru agar tidak dapat login.<br>
 2. Admin dapat melakukan Input user baru, delete user, edit user.<br>
 3. Admin dapat melihat nilai dari siswa.<br>
@@ -20,15 +20,15 @@ Dalam aplikasi ini ada tiga tingkatan yaitu siswa/user, guru, dan admin.
 5. Admin dapat melakukan ujian untuk mengecek.<br>
 6. Admin dapat melakukan input mata pelajaran baru, delete mata pelajaran, edit mata pelajaran.<br>
 
-**Guru**
-========
+Guru<br>
+
 1. Guru dapat melihat nilai dari siswa.<br>
 2. Guru dapat melakukan input soal baru, delete soal, edit soal.<br>
 3. Guru dapat melakukan ujian untuk mengecek.<br>
 4. Guru dapat melakukan input mata pelajaran baru, delete mata pelajaran, edit mata pelajaran.<br>
 
-**Siswa**
-=========
+Siswa<br>
+
 1. Siswa hanya dapat melakukan ujian, ujian yang dilakukan sesuai dengan perintah guru yang bersangkutan.<br>
 2. hasil dari ujian akan langsung tampil setelah ujian selesai dan hanya di beri tahu benar dan salhnya tidak nilainya<br>
 
